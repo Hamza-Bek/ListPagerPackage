@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPager", "ListPager\ListPager.csproj", "{B23707AB-1FE8-4021-AB15-29A3FB95410D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagedListTests", "PagedListTests\PagedListTests.csproj", "{A27B16F0-8D0F-45B5-AEC4-4FE40DC6B5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23707AB-1FE8-4021-AB15-29A3FB95410D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23707AB-1FE8-4021-AB15-29A3FB95410D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23707AB-1FE8-4021-AB15-29A3FB95410D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23707AB-1FE8-4021-AB15-29A3FB95410D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27B16F0-8D0F-45B5-AEC4-4FE40DC6B5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27B16F0-8D0F-45B5-AEC4-4FE40DC6B5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27B16F0-8D0F-45B5-AEC4-4FE40DC6B5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27B16F0-8D0F-45B5-AEC4-4FE40DC6B5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76CEDBB8-D069-400C-9715-23D82D1AB426}
+	EndGlobalSection
+EndGlobal
